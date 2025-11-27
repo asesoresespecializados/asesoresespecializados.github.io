@@ -367,7 +367,7 @@ description: Acceso único a demos web y paneles Power BI.
   </section>
 
   <p class="footer-note">
-    Última actualización: <!-- puedes rellenar a mano, por ejemplo: --> Enero 2026.  
+    Última actualización: <!-- puedes rellenar a mano, por ejemplo: --> Noviembre 2025.  
     Si algún enlace no responde, por favor avisa al administrador para verificar el servicio (Ngrok o Power BI).
   </p>
 </div>
