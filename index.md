@@ -274,12 +274,6 @@ description: Acceso único a demos web y paneles Power BI.
       </article>
     </div>
 
-    <div class="hint">
-      <strong>Nota para el administrador (tú):</strong><br>
-      Cuando Ngrok genere un nuevo enlace, edita este archivo y reemplaza la URL actual
-      <code>https://e7e396483aef.ngrok-free.app/</code> por el nuevo enlace.  
-      No necesitas volver a compartir ninguna liga, solo esta página.
-    </div>
   </section>
 
   <section>
