@@ -261,7 +261,7 @@ description: Acceso único a demos web y paneles Power BI.
         </p>
         <div class="card-footer">
           <!-- URL ACTUAL DE NGROK (SE ACTUALIZA CUANDO CAMBIE) -->
-          <a class="btn btn-primary" href="https://9dc8b0dff2cf.ngrok-free.app/" target="_blank" rel="noopener noreferrer">
+          <a class="btn btn-primary" href="https://dc0f25e6d058.ngrok-free.app/" target="_blank" rel="noopener noreferrer">
             Abrir sistema (Ngrok)
           </a>
         </div>
