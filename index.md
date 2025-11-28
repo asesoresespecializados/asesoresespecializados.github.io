@@ -227,7 +227,7 @@ description: Acceso único a demos web y paneles Power BI.
     <h1 class="hero-title">Entorno de demos de Victor Fuente</h1>
     <p class="hero-subtitle">
       Esta página funciona como un acceso único a las demos que se ejecutan desde mi entorno de desarrollo
-      (Ngrok / Web) y a los paneles de Power BI utilizados en la Dirección de Educación Secundaria.
+      (Ngrok / Web) Y (Local / Web) y a los paneles de Power BI utilizados en la Dirección de Educación Secundaria.
       Los enlaces de pruebas pueden cambiar, pero este portal se mantiene estable.
     </p>
     <p class="hero-meta">
