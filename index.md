@@ -261,7 +261,7 @@ description: Acceso único a demos web y paneles Power BI.
         </p>
         <div class="card-footer">
           <!-- URL ACTUAL DE NGROK (SE ACTUALIZA CUANDO CAMBIE) -->
-          <a class="btn btn-primary" href="https://dc0f25e6d058.ngrok-free.app/" target="_blank" rel="noopener noreferrer">
+          <a class="btn btn-primary" href="https://14acc9430a69.ngrok-free.app" target="_blank" rel="noopener noreferrer">
             Abrir sistema (Ngrok)
           </a>
         </div>
@@ -273,6 +273,38 @@ description: Acceso único a demos web y paneles Power BI.
         </p>
       </article>
     </div>
+
+    <div class="cards">
+      <!-- PROYECTO LOCAL -->
+      <article class="card">
+        <div class="card-header">
+          <div>
+            <h3 class="card-title">Sistema WEB – Secundarias (Ngrok)</h3>
+            <p class="card-meta">
+              Control de Licencias, Protocolos, Control Interno y herramientas de cálculo de fechas.
+            </p>
+          </div>
+          <span class="card-tag">Django / Local</span>
+        </div>
+        <p class="card-body">
+          Proyecto web para la Dirección de Secundarias, área de Asesores Especializados: gestión de licencias,
+          control de protocolos, control interno y algunas herramientas de apoyo (cálculo de fechas, etc.).
+        </p>
+        <div class="card-footer">
+          <!-- URL DEL OBJETO (SE ACTUALIZA CUANDO CAMBIE) -->
+          <a class="btn btn-primary" href="http://admins-macbook-pro.local:8000/" target="_blank" rel="noopener noreferrer">
+            Abrir sistema (LOCAL)
+          </a>
+        </div>
+        <p class="card-meta">
+          <span class="status-text">
+            <span class="status-dot offline"></span>
+            Estado: requiere que el servidor de pruebas local esté activo.
+          </span>
+        </p>
+      </article>
+    </div>
+
 
   </section>
 
