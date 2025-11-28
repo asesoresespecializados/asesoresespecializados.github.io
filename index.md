@@ -279,7 +279,7 @@ description: Acceso único a demos web y paneles Power BI.
       <article class="card">
         <div class="card-header">
           <div>
-            <h3 class="card-title">Sistema WEB – Secundarias (Ngrok)</h3>
+            <h3 class="card-title">Sistema WEB – Secundarias (Local)</h3>
             <p class="card-meta">
               Control de Licencias, Protocolos, Control Interno y herramientas de cálculo de fechas.
             </p>
@@ -293,7 +293,7 @@ description: Acceso único a demos web y paneles Power BI.
         <div class="card-footer">
           <!-- URL DEL OBJETO (SE ACTUALIZA CUANDO CAMBIE) -->
           <a class="btn btn-primary" href="http://admins-macbook-pro.local:8000/" target="_blank" rel="noopener noreferrer">
-            Abrir sistema (LOCAL)
+            Abrir sistema (Local)
           </a>
         </div>
         <p class="card-meta">
