@@ -397,6 +397,141 @@ description: Acceso único a demos web y paneles Power BI.
         </p>
       </article>
 
+      <!-- CONTROL DE LICENCIAS 2025-2030 -->
+<article class="card">
+  <div class="card-header">
+    <div>
+      <h3 class="card-title">Control de Licencias 2025-2030</h3>
+      <p class="card-meta">Seguimiento de licencias por niveles educativos.</p>
+    </div>
+    <span class="card-tag">Google Sheets</span>
+  </div>
+  <p class="card-body">
+    Hoja de cálculo para el control y monitoreo de licencias de los distintos niveles educativos
+    del periodo 2025-2030, centralizando la información en Google Drive para su consulta y actualización.
+  </p>
+  <div class="card-footer">
+    <a class="btn btn-primary" href="https://docs.google.com/spreadsheets/d/19daV022hpdRsxUEq-W9QAqv0VzVN6drf/edit?gid=30218007#gid=30218007" target="_blank" rel="noopener noreferrer">
+      Abrir en Google Sheets
+    </a>
+  </div>
+  <p class="card-meta">
+    <span class="status-text">
+      <span class="status-dot"></span>
+      Estado: en línea (requiere acceso autorizado en Google Drive).
+    </span>
+  </p>
+</article>
+
+<!-- FORMULARIO CONTROL DE CORRESPONDENCIA -->
+<article class="card">
+  <div class="card-header">
+    <div>
+      <h3 class="card-title">Formulario de Control de Correspondencia</h3>
+      <p class="card-meta">Captura y registro de oficios y comunicaciones.</p>
+    </div>
+    <span class="card-tag">Google Forms</span>
+  </div>
+  <p class="card-body">
+    Formulario para el registro de la correspondencia recibida y enviada, permitiendo
+    documentar datos clave como remitente, destinatario, fechas, folios y observaciones,
+    a fin de facilitar el control y la trazabilidad de los oficios.
+  </p>
+  <div class="card-footer">
+    <a class="btn btn-primary" href="https://docs.google.com/forms/d/1dX3RwNeOKL7xtn-9d4awuLQg2Fxwq5yvIyqDkEoRxvU/edit?usp=forms_home&ouid=116993489947918853102&ths=true" target="_blank" rel="noopener noreferrer">
+      Abrir formulario en Google Forms
+    </a>
+  </div>
+  <p class="card-meta">
+    <span class="status-text">
+      <span class="status-dot"></span>
+      Estado: en línea (habilitado para captura de registros).
+    </span>
+  </p>
+</article>
+
+<!-- RESULTADOS CONTROL DE CORRESPONDENCIA -->
+<article class="card">
+  <div class="card-header">
+    <div>
+      <h3 class="card-title">Resultados Control de Correspondencia</h3>
+      <p class="card-meta">Base de datos de registros capturados en el formulario.</p>
+    </div>
+    <span class="card-tag">Google Sheets</span>
+  </div>
+  <p class="card-body">
+    Hoja de cálculo que concentra los resultados del Formulario de Control de Correspondencia,
+    permitiendo filtrar, analizar y dar seguimiento a los oficios registrados, así como generar
+    reportes administrativos.
+  </p>
+  <div class="card-footer">
+    <a class="btn btn-primary" href="https://docs.google.com/spreadsheets/d/1vpHRjkPQba3jobZLrPUk3jmllta_IKpJGDUiuQUnXhM/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+      Ver resultados en Google Sheets
+    </a>
+  </div>
+  <p class="card-meta">
+    <span class="status-text">
+      <span class="status-dot"></span>
+      Estado: en línea (requiere acceso autorizado en Google Drive).
+    </span>
+  </p>
+</article>
+
+<!-- FORMULARIO ACUSES DE RECIBIDO -->
+<article class="card">
+  <div class="card-header">
+    <div>
+      <h3 class="card-title">Formulario de Acuses de Recibido</h3>
+      <p class="card-meta">Registro de acuses y evidencia de entrega.</p>
+    </div>
+    <span class="card-tag">Google Forms</span>
+  </div>
+  <p class="card-body">
+    Formulario digital para capturar acuses de recibido de documentación, incluyendo
+    datos del destinatario, fecha de entrega, tipo de documento y observaciones, con el fin
+    de garantizar evidencia y trazabilidad en los procesos de entrega.
+  </p>
+  <div class="card-footer">
+    <a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLSfujvtOM3ZssYaICnA2gC8zat1xhGz39_iZOHvU-_5v4jmq3Q/viewform?usp=dialog" target="_blank" rel="noopener noreferrer">
+      Abrir formulario en Google Forms
+    </a>
+  </div>
+  <p class="card-meta">
+    <span class="status-text">
+      <span class="status-dot"></span>
+      Estado: en línea (habilitado para captura de acuses).
+    </span>
+  </p>
+</article>
+
+<!-- RESULTADOS ACUSES DE RECIBIDO -->
+<article class="card">
+  <div class="card-header">
+    <div>
+      <h3 class="card-title">Resultados Acuses de Recibido</h3>
+      <p class="card-meta">Concentrado de acuses registrados.</p>
+    </div>
+    <span class="card-tag">Google Sheets</span>
+  </div>
+  <p class="card-body">
+    Hoja de cálculo que consolida los registros de acuses de recibido capturados en el
+    formulario correspondiente, permitiendo revisar el historial de entregas, validar evidencias
+    y generar reportes para el seguimiento administrativo.
+  </p>
+  <div class="card-footer">
+    <a class="btn btn-primary" href="https://docs.google.com/spreadsheets/d/1yoBmigqhoZYEysRKwXkQ_g9g6uwCfKLu3KpP8Xt88Y0/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+      Ver resultados en Google Sheets
+    </a>
+  </div>
+  <p class="card-meta">
+    <span class="status-text">
+      <span class="status-dot"></span>
+      Estado: en línea (requiere acceso autorizado en Google Drive).
+    </span>
+  </p>
+</article>
+
+
     </div>
   </section>
 
