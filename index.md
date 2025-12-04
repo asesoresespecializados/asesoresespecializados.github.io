@@ -224,7 +224,7 @@ description: Acceso único a demos web y paneles Power BI.
     <div class="badge">
       <span>Portal de demos</span>
     </div>
-    <h1 class="hero-title">Entorno de demos / DIRECCIÓN DE SECUNDARIAS / ASESORES ESPECIALIZADOS</h1>
+    <h1 class="hero-title">Entorno de demos / Dirección de Secundarias / Asesores Especializados</h1>
     <p class="hero-subtitle">
       Esta página funciona como un acceso único a las demos que se ejecutan desde mi entorno de desarrollo
       (Ngrok / Web) Y (Local / Web) y a los paneles de Power BI utilizados en la Dirección de Educación Secundaria.
