@@ -531,6 +531,33 @@ description: Acceso único a demos web y paneles Power BI.
   </p>
 </article>
 
+<!-- FORMULARIO CONTROL DE PROTOCOLO -->
+<article class="card">
+  <div class="card-header">
+    <div>
+      <h3 class="card-title">Formulario de Control de Protocolo</h3>
+      <p class="card-meta">Registro de Protocolos.</p>
+    </div>
+    <span class="card-tag">Google Forms</span>
+  </div>
+  <p class="card-body">
+    Formulario digital para capturar protocolos, incluyendo
+    fecha de entrega, tipo de documento y observaciones, con el fin
+    de garantizar evidencia y trazabilidad en los procesos de entrega.
+  </p>
+  <div class="card-footer">
+    <a class="btn btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLScuDIPsGh3l1V6wQld3vS1qNchLFxUP8ntEltA46eeNSY4kSg/viewform?usp=header" target="_blank" rel="noopener noreferrer">
+      Abrir formulario en Google Forms
+    </a>
+  </div>
+  <p class="card-meta">
+    <span class="status-text">
+      <span class="status-dot"></span>
+      Estado: en línea (habilitado para captura de protocolos).
+    </span>
+  </p>
+</article>
+
 
     </div>
   </section>
