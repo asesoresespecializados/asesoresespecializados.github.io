@@ -294,7 +294,7 @@ description: Acceso único a demos web y paneles Power BI.
         </p>
         <div class="card-footer">
           <!-- URL DEL OBJETO (SE ACTUALIZA CUANDO CAMBIE) -->
-          <a class="btn btn-primary" href="http://192.168.184.69:8000/tramites/" target="_blank" rel="noopener noreferrer">
+          <a class="btn btn-primary" href="http://192.168.184.251:8000/tramites/" target="_blank" rel="noopener noreferrer">
             Abrir sistema (Local)
           </a>
         </div>
